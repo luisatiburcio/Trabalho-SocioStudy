@@ -1,0 +1,14 @@
+.container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-1 {
+    height: 600px;
+    width: 500px;
+}
+
+.Input {
+    margin-top: 20px;
+}

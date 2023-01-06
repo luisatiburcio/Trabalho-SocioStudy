@@ -1,0 +1,50 @@
+html, body {
+    min-height: 100%;
+}
+
+.navbar {
+    width: 100%;
+    display: flex;
+    background-color: #F5F5F5;
+}
+
+img {
+    display: block;
+    margin: 0px auto;
+}
+
+a {
+    color: #03045E;
+    font: 'Roboto';
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+section {
+    height: 100px;
+}
+.conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
+}
+.button{
+    background-color: transparent;
+    border: 0.1em solid #0077B6;
+    border-radius: 5px;
+    padding: 2px 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 0px 10px;
+    width: 30%;
+}
+
+.footer {
+    margin-bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #0077B6;
+    color: white;
+}

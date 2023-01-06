@@ -1,0 +1,92 @@
+
+.container-2 {
+    background-image: url("./../assets/fundoPage1.png");
+    background-repeat: no-repeat;
+    height: 400%;
+    width: 200%;
+    margin-bottom: 8%;
+    margin-top: auto;
+    scroll-padding-block: 100%;
+    padding-top: 1em;
+    padding-right: 90em;
+
+}
+
+.card-1 {
+    background-color: transparent;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 0; 
+}
+
+strong {
+    color: #0077B6;
+}
+.text-1 {
+    font-size: 35px;
+    margin-left: 5%;
+    text-align: left;
+    
+}
+
+.container-3 {
+    background-color: #288CD7;
+    height: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+	border-radius: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container-4 {
+    background-color: transparent;
+    height: 30%;
+    width: 80%;
+    margin-top: 5%;
+    margin-left: auto;
+    position: absolute;
+}
+
+.container-5 {
+    background-color: transparent;
+    height: 250px;
+    width: 100px;
+    margin-top: 40px;
+}
+
+.container-6 {
+    background-color: #c7c0c0;
+    height: 200px;
+    width: 500px;
+    margin-top: 5%;
+    margin-left: 30px;
+	border-radius: 20px;
+}
+
+.img-2 {
+    margin-left: 5%; 
+}
+
+.container-7 {
+    background-color: transparent;
+    height: 50px;
+    margin-top: 25px;
+    border: 0;
+}
+
+.div-container {
+    text-align: center;
+}
+
+
+.container{
+    height: 75%;
+    width: auto;
+}
+
+nav {
+    height: 75px;
+}
